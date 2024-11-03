@@ -1,0 +1,1098 @@
+.elementor-1004 .elementor-element.elementor-element-bf36499 {
+    --display: flex;
+    --min-height: 70vh;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --justify-content: flex-start;
+    --align-items: flex-start;
+    --flex-wrap: nowrap;
+    --overflow: hidden;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 20px;
+    --padding-left: 20px;
+    --padding-right: 20px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-bf36499:not(.elementor-motion-effects-element-type-background),
+.elementor-1004 .elementor-element.elementor-element-bf36499>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-1004 .elementor-element.elementor-element-bf36499,
+.elementor-1004 .elementor-element.elementor-element-bf36499::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-1004 .elementor-element.elementor-element-7bf02ba {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: flex-start;
+    --gap: 5% 5%;
+    --flex-wrap: nowrap;
+    --background-transition: 0.3s;
+    --border-radius: 3px 3px 3px 3px;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0%;
+    --padding-bottom: 0%;
+    --padding-left: 5%;
+    --padding-right: 5%;
+}
+
+.elementor-1004 .elementor-element.elementor-element-7bf02ba:not(.elementor-motion-effects-element-type-background),
+.elementor-1004 .elementor-element.elementor-element-7bf02ba>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #F4F4F4;
+}
+
+.elementor-1004 .elementor-element.elementor-element-7bf02ba,
+.elementor-1004 .elementor-element.elementor-element-7bf02ba::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-1004 .elementor-element.elementor-element-7bf02ba.e-con {
+    --align-self: stretch;
+    --flex-grow: 0;
+    --flex-shrink: 1;
+}
+
+.elementor-1004 .elementor-element.elementor-element-fb9c96e {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --gap: 30px 30px;
+    --flex-wrap: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 5%;
+    --padding-bottom: 5%;
+    --padding-left: 0%;
+    --padding-right: 0%;
+}
+
+.elementor-1004 .elementor-element.elementor-element-84858b6 .elementor-heading-title {
+    font-family: "Merriweather", Sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.2em;
+    letter-spacing: 0.1px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-84858b6 {
+    width: var( --container-widget-width, 100%);
+    max-width: 100%;
+    --container-widget-width: 100%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-1004 .elementor-element.elementor-element-09c65d4 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: flex-start;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-9a86087 img {
+    width: 120px;
+    border-style: solid;
+    border-width: 0px 0px 0px 3px;
+    border-color: var( --e-global-color-accent);
+    border-radius: 0px 3px 3px 0px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-677882d {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --justify-content: flex-start;
+    --align-items: center;
+    --gap: 10px 10px;
+    --background-transition: 0.3s;
+    border-style: none;
+    --border-style: none;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-677882d,
+.elementor-1004 .elementor-element.elementor-element-677882d::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-1004 .elementor-element.elementor-element-677882d.e-con {
+    --align-self: stretch;
+}
+
+.elementor-1004 .elementor-element.elementor-element-612ac8f .elementor-heading-title {
+    color: var( --e-global-color-secondary);
+    font-family: "Merriweather", Sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 1.2em;
+    letter-spacing: 0.1px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-612ac8f>.elementor-widget-container {
+    margin: -5px 0px 0px 0px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-612ac8f {
+    width: var( --container-widget-width, 100%);
+    max-width: 100%;
+    --container-widget-width: 100%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-1004 .elementor-element.elementor-element-37d6d39 .elementor-button-content-wrapper {
+    flex-direction: row-reverse;
+}
+
+.elementor-1004 .elementor-element.elementor-element-37d6d39 .elementor-button .elementor-button-content-wrapper {
+    gap: 10px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-37d6d39 .elementor-button {
+    font-family: "Quicksand", Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: none;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 1em;
+    letter-spacing: 1.02px;
+    word-spacing: 0em;
+    fill: #455141;
+    color: #455141;
+    background-color: #61CE7000;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: #F0F0F0;
+    border-radius: 3px 3px 3px 3px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-37d6d39 .elementor-button:hover,
+.elementor-1004 .elementor-element.elementor-element-37d6d39 .elementor-button:focus {
+    color: #455141;
+    background-color: #02010100;
+    border-color: var( --e-global-color-accent);
+}
+
+.elementor-1004 .elementor-element.elementor-element-37d6d39 .elementor-button:hover svg,
+.elementor-1004 .elementor-element.elementor-element-37d6d39 .elementor-button:focus svg {
+    fill: #455141;
+}
+
+.elementor-1004 .elementor-element.elementor-element-37d6d39.elementor-element {
+    --align-self: flex-start;
+}
+
+.elementor-1004 .elementor-element.elementor-element-adbf5a1 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: flex-start;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-b9f0c9c img {
+    width: 120px;
+    border-style: solid;
+    border-width: 0px 0px 0px 3px;
+    border-color: var( --e-global-color-accent);
+    border-radius: 0px 3px 3px 0px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-fa5901d {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --justify-content: flex-start;
+    --align-items: center;
+    --gap: 10px 10px;
+    --background-transition: 0.3s;
+    border-style: none;
+    --border-style: none;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-fa5901d,
+.elementor-1004 .elementor-element.elementor-element-fa5901d::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-1004 .elementor-element.elementor-element-fa5901d.e-con {
+    --align-self: stretch;
+}
+
+.elementor-1004 .elementor-element.elementor-element-52881e2 .elementor-heading-title {
+    color: var( --e-global-color-secondary);
+    font-family: "Merriweather", Sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 1.2em;
+    letter-spacing: 0.1px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-52881e2>.elementor-widget-container {
+    margin: -5px 0px 0px 0px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-52881e2 {
+    width: var( --container-widget-width, 100%);
+    max-width: 100%;
+    --container-widget-width: 100%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-1004 .elementor-element.elementor-element-2b26c70 .elementor-button-content-wrapper {
+    flex-direction: row-reverse;
+}
+
+.elementor-1004 .elementor-element.elementor-element-2b26c70 .elementor-button .elementor-button-content-wrapper {
+    gap: 10px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-2b26c70 .elementor-button {
+    font-family: "Quicksand", Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: none;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 1em;
+    letter-spacing: 1.02px;
+    word-spacing: 0em;
+    fill: #455141;
+    color: #455141;
+    background-color: #61CE7000;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: #F0F0F0;
+    border-radius: 3px 3px 3px 3px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-2b26c70 .elementor-button:hover,
+.elementor-1004 .elementor-element.elementor-element-2b26c70 .elementor-button:focus {
+    color: #455141;
+    background-color: #02010100;
+    border-color: var( --e-global-color-accent);
+}
+
+.elementor-1004 .elementor-element.elementor-element-2b26c70 .elementor-button:hover svg,
+.elementor-1004 .elementor-element.elementor-element-2b26c70 .elementor-button:focus svg {
+    fill: #455141;
+}
+
+.elementor-1004 .elementor-element.elementor-element-2b26c70.elementor-element {
+    --align-self: flex-start;
+}
+
+.elementor-1004 .elementor-element.elementor-element-5443d93 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: flex-start;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-7400828 img {
+    width: 120px;
+    border-style: solid;
+    border-width: 0px 0px 0px 3px;
+    border-color: var( --e-global-color-accent);
+    border-radius: 0px 3px 3px 0px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-f4025ba {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --justify-content: flex-start;
+    --align-items: center;
+    --gap: 10px 10px;
+    --background-transition: 0.3s;
+    border-style: none;
+    --border-style: none;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-f4025ba,
+.elementor-1004 .elementor-element.elementor-element-f4025ba::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-1004 .elementor-element.elementor-element-f4025ba.e-con {
+    --align-self: stretch;
+}
+
+.elementor-1004 .elementor-element.elementor-element-e8ac8cd .elementor-heading-title {
+    color: var( --e-global-color-secondary);
+    font-family: "Merriweather", Sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 1.2em;
+    letter-spacing: 0.1px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-e8ac8cd>.elementor-widget-container {
+    margin: -5px 0px 0px 0px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-e8ac8cd {
+    width: var( --container-widget-width, 100%);
+    max-width: 100%;
+    --container-widget-width: 100%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-1004 .elementor-element.elementor-element-3b8e084 .elementor-button-content-wrapper {
+    flex-direction: row-reverse;
+}
+
+.elementor-1004 .elementor-element.elementor-element-3b8e084 .elementor-button .elementor-button-content-wrapper {
+    gap: 10px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-3b8e084 .elementor-button {
+    font-family: "Quicksand", Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: none;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 1em;
+    letter-spacing: 1.02px;
+    word-spacing: 0em;
+    fill: #455141;
+    color: #455141;
+    background-color: #61CE7000;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: #F0F0F0;
+    border-radius: 3px 3px 3px 3px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-3b8e084 .elementor-button:hover,
+.elementor-1004 .elementor-element.elementor-element-3b8e084 .elementor-button:focus {
+    color: #455141;
+    background-color: #02010100;
+    border-color: var( --e-global-color-accent);
+}
+
+.elementor-1004 .elementor-element.elementor-element-3b8e084 .elementor-button:hover svg,
+.elementor-1004 .elementor-element.elementor-element-3b8e084 .elementor-button:focus svg {
+    fill: #455141;
+}
+
+.elementor-1004 .elementor-element.elementor-element-3b8e084.elementor-element {
+    --align-self: flex-start;
+}
+
+.elementor-1004 .elementor-element.elementor-element-aa407ea {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: flex-start;
+    --gap: 5% 5%;
+    --flex-wrap: nowrap;
+    --background-transition: 0.3s;
+    --border-radius: 3px 3px 3px 3px;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0%;
+    --padding-bottom: 0%;
+    --padding-left: 5%;
+    --padding-right: 5%;
+}
+
+.elementor-1004 .elementor-element.elementor-element-aa407ea:not(.elementor-motion-effects-element-type-background),
+.elementor-1004 .elementor-element.elementor-element-aa407ea>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #F4F4F4;
+}
+
+.elementor-1004 .elementor-element.elementor-element-aa407ea,
+.elementor-1004 .elementor-element.elementor-element-aa407ea::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-1004 .elementor-element.elementor-element-aa407ea.e-con {
+    --align-self: stretch;
+    --order: -99999/* order start hack */
+    ;
+}
+
+.elementor-1004 .elementor-element.elementor-element-73f3a8b {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --gap: 30px 30px;
+    --flex-wrap: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 5%;
+    --padding-bottom: 5%;
+    --padding-left: 0%;
+    --padding-right: 0%;
+}
+
+.elementor-1004 .elementor-element.elementor-element-7aac8b4 .elementor-heading-title {
+    font-family: "Merriweather", Sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.2em;
+    letter-spacing: 0.1px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-7aac8b4 {
+    width: var( --container-widget-width, 100%);
+    max-width: 100%;
+    --container-widget-width: 100%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-1004 .elementor-element.elementor-element-6974e16 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: flex-start;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-06f5b28 img {
+    width: 120px;
+    border-style: solid;
+    border-width: 0px 0px 0px 3px;
+    border-color: var( --e-global-color-accent);
+    border-radius: 0px 3px 3px 0px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-5810ce6 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --justify-content: flex-start;
+    --align-items: center;
+    --gap: 10px 10px;
+    --background-transition: 0.3s;
+    border-style: none;
+    --border-style: none;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-5810ce6,
+.elementor-1004 .elementor-element.elementor-element-5810ce6::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-1004 .elementor-element.elementor-element-5810ce6.e-con {
+    --align-self: stretch;
+}
+
+.elementor-1004 .elementor-element.elementor-element-91e1c19 .elementor-heading-title {
+    color: var( --e-global-color-secondary);
+    font-family: "Merriweather", Sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    font-style: italic;
+    line-height: 1.2em;
+    letter-spacing: 0.1px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-91e1c19>.elementor-widget-container {
+    margin: -5px 0px 0px 0px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-91e1c19 {
+    width: var( --container-widget-width, 100%);
+    max-width: 100%;
+    --container-widget-width: 100%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-1004 .elementor-element.elementor-element-d381a03 .elementor-button-content-wrapper {
+    flex-direction: row-reverse;
+}
+
+.elementor-1004 .elementor-element.elementor-element-d381a03 .elementor-button .elementor-button-content-wrapper {
+    gap: 10px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-d381a03 .elementor-button {
+    font-family: "Quicksand", Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: none;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 1em;
+    letter-spacing: 1.02px;
+    word-spacing: 0em;
+    fill: #455141;
+    color: #455141;
+    background-color: #61CE7000;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: #F0F0F0;
+    border-radius: 3px 3px 3px 3px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-1004 .elementor-element.elementor-element-d381a03 .elementor-button:hover,
+.elementor-1004 .elementor-element.elementor-element-d381a03 .elementor-button:focus {
+    color: #455141;
+    background-color: #02010100;
+    border-color: var( --e-global-color-accent);
+}
+
+.elementor-1004 .elementor-element.elementor-element-d381a03 .elementor-button:hover svg,
+.elementor-1004 .elementor-element.elementor-element-d381a03 .elementor-button:focus svg {
+    fill: #455141;
+}
+
+.elementor-1004 .elementor-element.elementor-element-d381a03.elementor-element {
+    --align-self: flex-start;
+}
+
+body.elementor-page-1004:not(.elementor-motion-effects-element-type-background),
+body.elementor-page-1004>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+@media(min-width:768px) {
+    .elementor-1004 .elementor-element.elementor-element-7bf02ba {
+        --width: 60%;
+    }
+    .elementor-1004 .elementor-element.elementor-element-fb9c96e {
+        --width: 100%;
+    }
+    .elementor-1004 .elementor-element.elementor-element-aa407ea {
+        --width: 40%;
+    }
+    .elementor-1004 .elementor-element.elementor-element-73f3a8b {
+        --width: 100%;
+    }
+}
+
+@media(max-width:1024px) and (min-width:768px) {
+    .elementor-1004 .elementor-element.elementor-element-7bf02ba {
+        --width: 100%;
+    }
+    .elementor-1004 .elementor-element.elementor-element-fb9c96e {
+        --width: 100%;
+    }
+    .elementor-1004 .elementor-element.elementor-element-aa407ea {
+        --width: 100%;
+    }
+    .elementor-1004 .elementor-element.elementor-element-73f3a8b {
+        --width: 100%;
+    }
+}
+
+@media(min-width:1557px) {
+    .elementor-1004 .elementor-element.elementor-element-7bf02ba {
+        --min-height: 0vh;
+    }
+    .elementor-1004 .elementor-element.elementor-element-7bf02ba.e-con {
+        --flex-grow: 0;
+        --flex-shrink: 1;
+    }
+    .elementor-1004 .elementor-element.elementor-element-aa407ea {
+        --min-height: 0vh;
+    }
+    .elementor-1004 .elementor-element.elementor-element-aa407ea.e-con {
+        --flex-grow: 0;
+        --flex-shrink: 1;
+    }
+}
+
+@media(max-width:1366px) {
+    .elementor-1004 .elementor-element.elementor-element-bf36499 {
+        --min-height: 80vh;
+    }
+    .elementor-1004 .elementor-element.elementor-element-7bf02ba {
+        --min-height: 0px;
+        --align-items: flex-start;
+        --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    }
+    .elementor-1004 .elementor-element.elementor-element-7bf02ba.e-con {
+        --flex-grow: 0;
+        --flex-shrink: 1;
+    }
+    .elementor-1004 .elementor-element.elementor-element-84858b6 .elementor-heading-title {
+        line-height: 1.2em;
+    }
+    .elementor-1004 .elementor-element.elementor-element-612ac8f .elementor-heading-title {
+        line-height: 1.2em;
+    }
+    .elementor-1004 .elementor-element.elementor-element-52881e2 .elementor-heading-title {
+        line-height: 1.2em;
+    }
+    .elementor-1004 .elementor-element.elementor-element-e8ac8cd .elementor-heading-title {
+        line-height: 1.2em;
+    }
+    .elementor-1004 .elementor-element.elementor-element-aa407ea {
+        --min-height: 0px;
+        --align-items: flex-start;
+        --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    }
+    .elementor-1004 .elementor-element.elementor-element-aa407ea.e-con {
+        --flex-grow: 0;
+        --flex-shrink: 1;
+    }
+    .elementor-1004 .elementor-element.elementor-element-7aac8b4 .elementor-heading-title {
+        line-height: 1.2em;
+    }
+    .elementor-1004 .elementor-element.elementor-element-91e1c19 .elementor-heading-title {
+        line-height: 1.2em;
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-1004 .elementor-element.elementor-element-bf36499 {
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --flex-wrap-mobile: wrap;
+        --gap: 20px 20px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-7bf02ba {
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --flex-wrap-mobile: wrap;
+        --gap: 0% 0%;
+        --flex-wrap: wrap;
+        --padding-top: 0%;
+        --padding-bottom: 0%;
+        --padding-left: 0%;
+        --padding-right: 0%;
+    }
+    .elementor-1004 .elementor-element.elementor-element-fb9c96e {
+        --justify-content: center;
+        --align-items: flex-start;
+        --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+        --margin-top: 0%;
+        --margin-bottom: 0%;
+        --margin-left: 0%;
+        --margin-right: 0%;
+        --padding-top: 5%;
+        --padding-bottom: 5%;
+        --padding-left: 5%;
+        --padding-right: 5%;
+        --z-index: 1;
+    }
+    .elementor-1004 .elementor-element.elementor-element-37d6d39 .elementor-button {
+        font-size: 14px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-37d6d39 {
+        width: initial;
+        max-width: initial;
+        align-self: flex-start;
+    }
+    .elementor-1004 .elementor-element.elementor-element-2b26c70 .elementor-button {
+        font-size: 14px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-2b26c70 {
+        width: initial;
+        max-width: initial;
+        align-self: flex-start;
+    }
+    .elementor-1004 .elementor-element.elementor-element-3b8e084 .elementor-button {
+        font-size: 14px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-3b8e084 {
+        width: initial;
+        max-width: initial;
+        align-self: flex-start;
+    }
+    .elementor-1004 .elementor-element.elementor-element-aa407ea {
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --flex-wrap-mobile: wrap;
+        --gap: 0% 0%;
+        --flex-wrap: wrap;
+        --padding-top: 0%;
+        --padding-bottom: 0%;
+        --padding-left: 0%;
+        --padding-right: 0%;
+    }
+    .elementor-1004 .elementor-element.elementor-element-73f3a8b {
+        --justify-content: center;
+        --align-items: flex-start;
+        --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+        --margin-top: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+        --padding-top: 5%;
+        --padding-bottom: 5%;
+        --padding-left: 5%;
+        --padding-right: 5%;
+        --z-index: 1;
+    }
+    .elementor-1004 .elementor-element.elementor-element-d381a03 .elementor-button {
+        font-size: 14px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-d381a03 {
+        width: initial;
+        max-width: initial;
+        align-self: flex-start;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-1004 .elementor-element.elementor-element-bf36499 {
+        --width: 100%;
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --flex-wrap-mobile: wrap;
+        --padding-top: 0px;
+        --padding-bottom: 10px;
+        --padding-left: 10px;
+        --padding-right: 10px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-7bf02ba {
+        --min-height: 0vh;
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --flex-wrap-mobile: wrap;
+        --padding-top: 0%;
+        --padding-bottom: 0%;
+        --padding-left: 0%;
+        --padding-right: 0%;
+    }
+    .elementor-1004 .elementor-element.elementor-element-fb9c96e {
+        --width: 100%;
+        --gap: 20px 20px;
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-fb9c96e.e-con {
+        --order: -99999/* order start hack */
+        ;
+    }
+    .elementor-1004 .elementor-element.elementor-element-84858b6 {
+        --container-widget-width: 100%;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 100%);
+        max-width: 100%;
+    }
+    .elementor-1004 .elementor-element.elementor-element-09c65d4 {
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --flex-wrap-mobile: wrap;
+        --gap: 20px 20px;
+        --flex-wrap: nowrap;
+        --margin-top: 0px;
+        --margin-bottom: 40px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-9a86087 img {
+        width: 100%;
+        border-width: 0px 0px 4px 0px;
+        border-radius: 3px 3px 0px 0px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-677882d {
+        --justify-content: center;
+        --gap: 20px 20px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-612ac8f {
+        text-align: left;
+        --container-widget-width: 100%;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 100%);
+        max-width: 100%;
+    }
+    .elementor-1004 .elementor-element.elementor-element-612ac8f>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-37d6d39 {
+        width: 100%;
+        max-width: 100%;
+    }
+    .elementor-1004 .elementor-element.elementor-element-adbf5a1 {
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --flex-wrap-mobile: wrap;
+        --gap: 20px 20px;
+        --flex-wrap: nowrap;
+        --margin-top: 0px;
+        --margin-bottom: 40px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-b9f0c9c img {
+        width: 100%;
+        border-width: 0px 0px 4px 0px;
+        border-radius: 3px 3px 0px 0px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-fa5901d {
+        --justify-content: center;
+        --gap: 20px 20px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-52881e2 {
+        text-align: left;
+        --container-widget-width: 100%;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 100%);
+        max-width: 100%;
+    }
+    .elementor-1004 .elementor-element.elementor-element-52881e2>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-2b26c70 {
+        width: 100%;
+        max-width: 100%;
+    }
+    .elementor-1004 .elementor-element.elementor-element-5443d93 {
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --flex-wrap-mobile: wrap;
+        --gap: 20px 20px;
+        --flex-wrap: nowrap;
+        --margin-top: 0px;
+        --margin-bottom: 40px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-7400828 img {
+        width: 100%;
+        border-width: 0px 0px 4px 0px;
+        border-radius: 3px 3px 0px 0px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-f4025ba {
+        --justify-content: center;
+        --gap: 20px 20px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-e8ac8cd {
+        text-align: left;
+        --container-widget-width: 100%;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 100%);
+        max-width: 100%;
+    }
+    .elementor-1004 .elementor-element.elementor-element-e8ac8cd>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-3b8e084 {
+        width: 100%;
+        max-width: 100%;
+    }
+    .elementor-1004 .elementor-element.elementor-element-aa407ea {
+        --min-height: 0vh;
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --flex-wrap-mobile: wrap;
+        --padding-top: 0%;
+        --padding-bottom: 0%;
+        --padding-left: 0%;
+        --padding-right: 0%;
+    }
+    .elementor-1004 .elementor-element.elementor-element-73f3a8b {
+        --width: 100%;
+        --gap: 20px 20px;
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-73f3a8b.e-con {
+        --order: -99999/* order start hack */
+        ;
+    }
+    .elementor-1004 .elementor-element.elementor-element-7aac8b4 {
+        --container-widget-width: 100%;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 100%);
+        max-width: 100%;
+    }
+    .elementor-1004 .elementor-element.elementor-element-6974e16 {
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --flex-wrap-mobile: wrap;
+        --gap: 20px 20px;
+        --flex-wrap: nowrap;
+        --margin-top: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-06f5b28 img {
+        width: 100%;
+        border-width: 0px 0px 4px 0px;
+        border-radius: 3px 3px 0px 0px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-5810ce6 {
+        --justify-content: center;
+        --gap: 20px 20px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-91e1c19 {
+        text-align: left;
+        --container-widget-width: 100%;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 100%);
+        max-width: 100%;
+    }
+    .elementor-1004 .elementor-element.elementor-element-91e1c19>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+    .elementor-1004 .elementor-element.elementor-element-d381a03 {
+        width: 100%;
+        max-width: 100%;
+    }
+}

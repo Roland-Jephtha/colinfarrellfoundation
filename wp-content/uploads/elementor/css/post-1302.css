@@ -1,0 +1,168 @@
+.elementor-1302 .elementor-element.elementor-element-74fe9fa0 {
+    --display: flex;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-1302 .elementor-element.elementor-element-7ce5cf13 {
+    width: 100%;
+    max-width: 100%;
+}
+
+/* Start custom CSS for html, class: .elementor-element-7ce5cf13 */
+
+.elementor-1302 .elementor-element.elementor-element-7ce5cf13 h3 {
+    display: none;
+}
+
+.elementor-1302 .elementor-element.elementor-element-7ce5cf13 .btn-submit {
+    color: #455141;
+    border-color: #455141;
+    padding: 8px 30px;
+    font-family: "Quicksand", Sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.elementor-1302 .elementor-element.elementor-element-7ce5cf13 .btn-submit:hover {
+    color: white;
+    background-color: #455141;
+}
+
+.elementor-1302 .elementor-element.elementor-element-7ce5cf13 .consent {
+    font-family: "Quicksand", Sans-serif;
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+.elementor-1302 .elementor-element.elementor-element-7ce5cf13 .label {
+    font-family: "Quicksand", Sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.elementor-1302 .elementor-element.elementor-element-7ce5cf13 .CustomAccountField_31745 {
+    font-family: "Quicksand", Sans-serif;
+    font-size: 16px;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+#CustomAccountField_31745 {
+    border: 1px solid #e1e1e1;
+    margin-top: 8px;
+    margin-bottom: 10px;
+    width: 275px;
+}
+
+.elementor-1302 .elementor-element.elementor-element-7ce5cf13 .CustomAccountField_37889 {
+    font-family: "Quicksand", Sans-serif;
+    font-size: 16px;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+#CustomAccountField_37889 {
+    border: 1px solid #e1e1e1;
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
+
+.elementor-1302 .elementor-element.elementor-element-7ce5cf13 .CustomAccountField_24577 {
+    font-family: "Quicksand", Sans-serif;
+    font-size: 16px;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+#CustomAccountField_24577 {
+    border: 1px solid #e1e1e1;
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
+
+.elementor-1302 .elementor-element.elementor-element-7ce5cf13 input#first-name.required[type="text"] {
+    border: 1px solid #e1e1e1;
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
+
+.elementor-1302 .elementor-element.elementor-element-7ce5cf13 input#last-name.required[type="text"] {
+    border: 1px solid #e1e1e1;
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
+
+.elementor-1302 .elementor-element.elementor-element-7ce5cf13 input#email-address.email.required[type="email"] {
+    border: 1px solid #e1e1e1;
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
+
+.elementor-1302 .elementor-element.elementor-element-7ce5cf13 input#email-address.email.required[type="email"]::placeholder {
+    font-size: 14px;
+    font-family: "Quicksand", Sans-serif;
+}
+
+.elementor-1302 .elementor-element.elementor-element-7ce5cf13 .email-registration-form {
+    width: 100%;
+}
+
+.elementor-1302 .elementor-element.elementor-element-7ce5cf13 .email-registration-form .field {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.elementor-1302 .elementor-element.elementor-element-7ce5cf13 .email-registration-form .field input {
+    padding: 6px;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+.elementor-1302 .elementor-element.elementor-element-7ce5cf13 .donation-success h2 p {
+    font-family: "Quicksand", Sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.elementor-1302 .elementor-element.elementor-element-7ce5cf13 label {
+    line-height: 1.5em;
+}
+
+.elementor-1302 .elementor-element.elementor-element-7ce5cf13 .CustomAccountField_74753 {
+    font-family: "Quicksand", Sans-serif;
+    font-size: 16px;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+.elementor-1302 .elementor-element.elementor-element-7ce5cf13 .email-registration-form .field .checkbox {
+    height: 45px;
+    padding: 10px 20px 10px 20px;
+}
+
+.elementor-1302 .elementor-element.elementor-element-7ce5cf13 .email-registration-form .field .checkboxes {
+    border: 1px solid #e1e1e1;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+
+.elementor-1302 .elementor-element.elementor-element-7ce5cf13 .email-registration-form .field .checkbox.selected {
+    background: #f5cf77;
+    color: #465242;
+}
+
+.elementor-1302 .elementor-element.elementor-element-7ce5cf13 .CustomAccountField_74753 label {
+    margin-bottom: 10px;
+}
+
+/* End custom CSS */

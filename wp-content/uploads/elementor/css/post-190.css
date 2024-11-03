@@ -1,0 +1,228 @@
+.elementor-190 .elementor-element.elementor-element-30c4945 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --gap: 0px 0px;
+    --flex-wrap: nowrap;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-190 .elementor-element.elementor-element-692ffd8 {
+    --display: flex;
+    --justify-content: center;
+    --gap: 10px 10px;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-190 .elementor-element.elementor-element-5c84e99 {
+    text-align: left;
+}
+
+.elementor-190 .elementor-element.elementor-element-5c84e99 img {
+    width: 100%;
+    height: 370px;
+    object-fit: cover;
+    object-position: top center;
+    border-style: solid;
+    border-width: 0px 0px 5px 0px;
+    border-color: var( --e-global-color-accent);
+    border-radius: 5px 5px 5px 5px;
+}
+
+.elementor-190 .elementor-element.elementor-element-5c84e99>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-190 .elementor-element.elementor-element-5c84e99.elementor-element {
+    --flex-grow: 1;
+    --flex-shrink: 0;
+}
+
+.elementor-190 .elementor-element.elementor-element-596d7e4 {
+    --display: flex;
+    --min-height: 30px;
+    --justify-content: center;
+    --align-items: center;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    --border-radius: 3px 0px 5px 0px;
+    --margin-top: -41px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-190 .elementor-element.elementor-element-596d7e4:not(.elementor-motion-effects-element-type-background),
+.elementor-190 .elementor-element.elementor-element-596d7e4>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-accent);
+}
+
+.elementor-190 .elementor-element.elementor-element-596d7e4,
+.elementor-190 .elementor-element.elementor-element-596d7e4::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-190 .elementor-element.elementor-element-596d7e4.e-con {
+    --align-self: flex-end;
+}
+
+.elementor-190 .elementor-element.elementor-element-81c0d14 .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-190 .elementor-element.elementor-element-81c0d14.elementor-view-stacked .elementor-icon {
+    background-color: var( --e-global-color-e52e660);
+}
+
+.elementor-190 .elementor-element.elementor-element-81c0d14.elementor-view-framed .elementor-icon,
+.elementor-190 .elementor-element.elementor-element-81c0d14.elementor-view-default .elementor-icon {
+    color: var( --e-global-color-e52e660);
+    border-color: var( --e-global-color-e52e660);
+}
+
+.elementor-190 .elementor-element.elementor-element-81c0d14.elementor-view-framed .elementor-icon,
+.elementor-190 .elementor-element.elementor-element-81c0d14.elementor-view-default .elementor-icon svg {
+    fill: var( --e-global-color-e52e660);
+}
+
+.elementor-190 .elementor-element.elementor-element-81c0d14 .elementor-icon {
+    font-size: 14px;
+}
+
+.elementor-190 .elementor-element.elementor-element-81c0d14 .elementor-icon svg {
+    height: 14px;
+}
+
+.elementor-190 .elementor-element.elementor-element-81c0d14.elementor-element {
+    --align-self: center;
+    --flex-grow: 0;
+    --flex-shrink: 1;
+}
+
+.elementor-190 .elementor-element.elementor-element-2b173df {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --gap: 5px 5px;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-190 .elementor-element.elementor-element-4abe5ac .elementor-heading-title {
+    color: var( --e-global-color-primary);
+    font-family: "Merriweather", Sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.elementor-190 .elementor-element.elementor-element-d137576 .elementor-heading-title {
+    color: var( --e-global-color-secondary);
+    font-family: "Quicksand", Sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.elementor-190 .elementor-element.elementor-element-d137576>.elementor-widget-container {
+    margin: 0px 0px 10px 0px;
+}
+
+.jet-listing-item.single-jet-engine.elementor-page-190>.elementor {
+    width: 315px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media(min-width:768px) {
+    .elementor-190 .elementor-element.elementor-element-596d7e4 {
+        --width: 30px;
+    }
+}
+
+@media(min-width:1557px) {
+    .elementor-190 .elementor-element.elementor-element-5c84e99 img {
+        height: 340px;
+    }
+}
+
+@media(max-width:1366px) {
+    .elementor-190 .elementor-element.elementor-element-5c84e99 img {
+        height: 320px;
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-190 .elementor-element.elementor-element-30c4945 {
+        --gap: 10px 10px;
+    }
+    .elementor-190 .elementor-element.elementor-element-5c84e99 img {
+        height: 280px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-190 .elementor-element.elementor-element-30c4945 {
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --flex-wrap-mobile: wrap;
+        --gap: 20px 20px;
+    }
+    .elementor-190 .elementor-element.elementor-element-5c84e99 img {
+        width: 100%;
+        height: 200px;
+    }
+    .elementor-190 .elementor-element.elementor-element-596d7e4 {
+        --width: 30px;
+    }
+}
+
+/* Start custom CSS for container, class: .elementor-element-30c4945 */
+
+/* Custom CSS for scaling elementor-icon on container hover */
+
+.elementor-190 .elementor-element.elementor-element-30c4945:hover .elementor-icon {
+    transform: scale(1.5);
+    transition: transform 0.3s ease-in-out;
+}
+
+/* End custom CSS */
